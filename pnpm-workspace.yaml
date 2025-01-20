@@ -1,3 +1,7 @@
 packages:
   - 'packages/*'
-  - *default
+
+versions:
+  eslint: &eslint '^9.13.x'
+  html-to-text: &html-to-text '^9.x'
+  jest: &jest '^29.x'

@@ -5,3 +5,16 @@ versions:
   eslint: &eslint '^9.13.x'
   html-to-text: &html-to-text '^9.x'
   jest: &jest '^29.x'
+  cdk:
+    aws-cdk: &aws-cdk '^2.164.0'
+    aws-sdk: &aws-sdk '^3.679.0'
+    aws-sdk-client-mock: &aws-sdk-client-mock '^4.1.0'
+    aws-sdk-node-http-handler: &aws-sdk-node-http-handler '^3.374.0'
+    '@aws-quickstart/eks-blueprints': &eks-blueprints '1.15.1'
+    cdk-ecr-deployment: &cdk-ecr-deployment '^3.0.136'
+    cdk8s: &cdk8s '^2.69.10'
+    cdk8s-plus-30: &cdk8s-plus-30 '^2.2.6'
+    constructs: &constructs '^10.4.2'
+    upsert-slr: &upsert-slr '^1.0.4'
+    ts-node: &cdk-ts-node "^10.9.2"
+    typescript: &cdk-typescript '~5.6.x'

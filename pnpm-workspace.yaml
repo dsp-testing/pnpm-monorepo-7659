@@ -59,7 +59,7 @@ catalog:
   '@types/html-to-text': *html-to-text
   '@types/jest': *jest
   '@types/luxon': '^3.4.2'
-  '@types/node': '^18.19.59'
+  '@types/node': '^22.13.1'
   '@types/pdfmake': *pdfmake
   '@types/semver': *semver
   '@typescript-eslint/eslint-plugin': *typescript-eslint
